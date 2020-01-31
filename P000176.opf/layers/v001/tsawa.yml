@@ -1,0 +1,8 @@
+id: b6d820d07c644967aeea8017f55c7e76
+annotation_type: tsawa
+revision: '00001'
+annotations:
+- id: 2bdb63b8ac8f48afa1f93bf2af811dc4
+  span:
+    start: 13582
+    end: 13733
