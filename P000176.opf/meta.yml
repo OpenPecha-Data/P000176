@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000176
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །རྒྱལ་སྲས་སྤྲུལ་པའི་གླེགས་བམ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
-  sku: SHE-SHAP-04
   layers:
   - book_title
   - author
   - tsawa
   - quotation
+  id: SHE-SHAP-04
 web_metadata:
   title:
     en: The Book of Emanated Scriptures of the Bodhisattva
